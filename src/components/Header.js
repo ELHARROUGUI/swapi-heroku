@@ -7,7 +7,7 @@ class Header extends Component {
       <nav>
         <div className="nav-wrapper teal lighten-1">
           <a href="/" className="brand-logo center">
-            Star Wars Wiki
+            Star Wars Wiki Clonned By M.H
           </a>
         </div>
       </nav>
